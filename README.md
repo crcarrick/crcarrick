@@ -1,6 +1,6 @@
 ### Heyo! 👋
 
-I'm Chris.  I build software for a living and just kind of all the time for fun.  Here's what I've been up to 👌.
+I'm Chris.  I build software for a living and just kind of all the time for fun.  Here's what I've been up to. 👌
 
 <!--
 **crcarrick/crcarrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
